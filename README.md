@@ -1,2 +1,2 @@
 # Image-classification
-# used fatkun crome extension
+ 1. Web Scrapping - fatkun crome extension
